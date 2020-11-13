@@ -21,9 +21,6 @@ Create a new React app in the root of this repository (i.e.
 `create-react-app .`) and build your project out from there. You are required to
 turn in your submission by making a pull request on the original repository.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
-
 ## Requirements
 
 The Audubon Society has asked you to build them a website where users can upload
