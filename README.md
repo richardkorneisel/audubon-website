@@ -18,8 +18,7 @@ Build a website for the Audubon Society!
 1. Fulfill the listed requirements.
 
 Create a new React app in the root of this repository (i.e.
-`create-react-app .`) and build your project out from there. You are required to
-turn in your submission by making a pull request on the original repository.
+`create-react-app .`) and build your project out from there.
 
 ## Requirements
 
